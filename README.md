@@ -1,5 +1,5 @@
 # ekanek
-
+Project Created using Vue js.  
 ## Project setup
 ```
 npm install
